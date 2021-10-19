@@ -1,4 +1,4 @@
-# Tasmanian region sea surface temperature processing (tasmanian_sst)
+# Tasmanian region sea surface temperature processing (sst_tasmania)
 
 Code for processing sea surface temperature data from observational and CMIP6 data for Kajtar and Holbrook, "Assessment and communication of risks to Tasmanian aquaculture and fisheries from marine heatwaves: Technical Report" (2021).
 
