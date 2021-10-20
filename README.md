@@ -26,7 +26,7 @@ Python code for reading and storing SST data from observations and models. Prima
 
 # post-processing
 
-MATLAB code for post-processing of MHW metrics.
+MATLAB code for post-processing of SST data.
 
 |File              |Description|
 |------------------|-----------|
