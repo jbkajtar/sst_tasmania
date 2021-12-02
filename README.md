@@ -1,6 +1,8 @@
 # Tasmanian region sea surface temperature processing (sst_tasmania)
 
-Code for processing sea surface temperature data from observational and CMIP6 data for Kajtar and Holbrook, "Future projections of marine heatwave hazards to aquaculture and fisheries in Tasmania" (2021).
+Code for processing sea surface temperature data from observational and CMIP6 data for:
+
+Kajtar, J.B. and Holbrook, N.J. (2021): "Future projections of marine heatwave hazards to aquaculture and fisheries in Tasmania", Institute for Marine and Antarctic Studies, University of Tasmania, Australia. 36pp. ISBN: 978-1-922708-06-9. http://ecite.utas.edu.au/147866.
 
 This code has been written to process sea surface temperature (SST) for the Tasmanian region (138°E-155°E, 49°S-35°S). Daily sea surface temperature data, from both observations and models, are processed. The observed sea surface temperature data is from NOAA 0.25° daily Optimum Interpolation Sea Surface Temperature (OISST) over the period 1982-2020 (Huang et al. 2020). The modelled sea surface temperature data is from 25 model simulations as part of the Coupled Model Intercomparison Project, Phase 6 (CMIP6; Eyring et al. 2016) over the period 1982-2100, where two future scenarios have been analysed. Sea surface temperature data are provided on a native grid point basis across the domain. Area-averaged timeseries are also provided for five subdomains.
 
