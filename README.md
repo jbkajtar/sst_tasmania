@@ -2,6 +2,10 @@
 
 Code for processing sea surface temperature data from observational and CMIP6 data for:
 
+Kajtar, J.B., Holbrook, N.J., Lyth, A., Hobday, A.J., Mundy, C.N., Ugalde, S.C. (2024): "A stakeholder-guided marine heatwave hazard index for fisheries and aquaculture". Climatic Change, 177, 26. https://doi.org/10.1007/s10584-024-03684-8.
+
+and
+
 Kajtar, J.B. and Holbrook, N.J. (2021): "Future projections of marine heatwave hazards to aquaculture and fisheries in Tasmania", Institute for Marine and Antarctic Studies, University of Tasmania, Australia. 36pp. ISBN: 978-1-922708-06-9. http://ecite.utas.edu.au/147866.
 
 This code has been written to process sea surface temperature (SST) for the Tasmanian region (138°E-155°E, 49°S-35°S). Daily sea surface temperature data, from both observations and models, are processed. The observed sea surface temperature data is from NOAA 0.25° daily Optimum Interpolation Sea Surface Temperature (OISST) over the period 1982-2020 (Huang et al. 2020). The modelled sea surface temperature data is from 25 model simulations as part of the Coupled Model Intercomparison Project, Phase 6 (CMIP6; Eyring et al. 2016) over the period 1982-2100, where two future scenarios have been analysed. Sea surface temperature data are provided on a native grid point basis across the domain. Area-averaged timeseries are also provided for five subdomains.
@@ -57,7 +61,9 @@ Eyring, V., Bony, S., Meehl, G.A., Senior, C.A., Stevens, B., Stouffer, R.J., Ta
 
 Huang, B., Liu, C., Banzon, V.F., Freeman, E., Graham, G., Hankins, B., Smith, T.M., Zhang, H.-M. (2020): NOAA 0.25-degree Daily Optimum Interpolation Sea Surface Temperature (OISST), Version 2.1. NOAA National Centers for Environmental Information. https://doi.org/10.25921/RE9P-PT57
 
-Kajtar, J.B. and Holbrook, N.J. (2021): "Future projections of marine heatwave hazards to aquaculture and fisheries in Tasmania", Institute for Marine and Antarctic Studies, University of Tasmania, Australia. 36pp. ISBN: 978-1-922708-06-9. http://ecite.utas.edu.au/147866 
+Kajtar, J.B., Holbrook, N.J., Lyth, A., Hobday, A.J., Mundy, C.N., Ugalde, S.C. (2024): A stakeholder-guided marine heatwave hazard index for fisheries and aquaculture. Climatic Change, 177, 26. https://doi.org/10.1007/s10584-024-03684-8
+
+Kajtar, J.B. and Holbrook, N.J. (2021): Future projections of marine heatwave hazards to aquaculture and fisheries in Tasmania, Institute for Marine and Antarctic Studies, University of Tasmania, Australia. 36pp. ISBN: 978-1-922708-06-9. http://ecite.utas.edu.au/147866 
 
 Kajtar, J.B. (2021): Tasmanian region daily sea surface temperature from observations and CMIP6 models [Data set]. Institute for Marine and Antarctic Studies (IMAS), University of Tasmania (UTAS). https://doi.org/10.25959/F33G-8234
 
